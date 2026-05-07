@@ -1,0 +1,151 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "cars": "Nos Voitures",
+    "about": "À Propos",
+    "contact": "Contact",
+    "reserve": "Réserver"
+  },
+  "hero": {
+    "badge": "N°1 Location Voiture au Maroc",
+    "title": "Voyagez en",
+    "titleHighlight": "Toute Liberté",
+    "subtitle": "Découvrez le Maroc à bord de nos véhicules premium. Flotte moderne, prix compétitifs, service irréprochable.",
+    "cta": "Voir nos voitures",
+    "ctaSecondary": "Contactez-nous",
+    "searchPlaceholder": "Ville de départ",
+    "searchPickup": "Date de prise en charge",
+    "searchReturn": "Date de retour",
+    "searchButton": "Rechercher"
+  },
+  "featured": {
+    "title": "Notre Flotte",
+    "subtitle": "Découvrez notre sélection de véhicules premium disponibles à la location",
+    "viewAll": "Voir tous les véhicules"
+  },
+  "why": {
+    "title": "Pourquoi Nous Choisir",
+    "subtitle": "Une expérience de location premium pensée pour votre confort",
+    "item1Title": "Flotte Premium",
+    "item1Desc": "Des véhicules récents, parfaitement entretenus et climatisés pour votre confort.",
+    "item2Title": "Prix Transparents",
+    "item2Desc": "Aucun frais caché. Des tarifs clairs et compétitifs en dirham marocain.",
+    "item3Title": "Service 24/7",
+    "item3Desc": "Notre équipe est disponible à tout moment pour vous assister.",
+    "item4Title": "Livraison Gratuite",
+    "item4Desc": "Livraison et récupération de votre véhicule à l'adresse de votre choix."
+  },
+  "stats": {
+    "clients": "Clients Satisfaits",
+    "cars": "Véhicules Disponibles",
+    "years": "Années d'Expérience",
+    "cities": "Villes au Maroc"
+  },
+  "testimonials": {
+    "title": "Ce que Disent nos Clients",
+    "subtitle": "Des milliers de clients nous font confiance pour leurs déplacements au Maroc"
+  },
+  "faq": {
+    "title": "Questions Fréquentes",
+    "subtitle": "Tout ce que vous devez savoir sur notre service de location"
+  },
+  "cta": {
+    "title": "Prêt pour Votre Aventure ?",
+    "subtitle": "Réservez votre véhicule dès maintenant et profitez d'une expérience de conduite inoubliable.",
+    "button": "Réserver Maintenant",
+    "whatsapp": "Chat WhatsApp"
+  },
+  "cars": {
+    "title": "Nos Véhicules",
+    "subtitle": "Choisissez parmi notre flotte de véhicules modernes et bien entretenus",
+    "perDay": "/ jour",
+    "available": "Disponible",
+    "unavailable": "Indisponible",
+    "reserve": "Réserver",
+    "details": "Voir détails",
+    "fuel": "Carburant",
+    "transmission": "Boîte",
+    "seats": "Places",
+    "ac": "Climatisation",
+    "filters": "Filtres",
+    "filterPrice": "Prix Max",
+    "filterBrand": "Marque",
+    "filterFuel": "Carburant",
+    "filterTransmission": "Transmission",
+    "allBrands": "Toutes les marques",
+    "allFuels": "Tous les carburants",
+    "allTransmissions": "Toutes",
+    "reset": "Réinitialiser",
+    "noResults": "Aucun véhicule trouvé",
+    "manual": "Manuelle",
+    "automatic": "Automatique",
+    "diesel": "Diesel",
+    "gasoline": "Essence",
+    "hybrid": "Hybride",
+    "yes": "Oui",
+    "no": "Non"
+  },
+  "carDetails": {
+    "specs": "Spécifications",
+    "gallery": "Galerie Photos",
+    "booking": "Réserver ce Véhicule",
+    "pickupDate": "Date de début",
+    "returnDate": "Date de fin",
+    "totalPrice": "Prix Total",
+    "days": "jours",
+    "reserveWhatsApp": "Réserver via WhatsApp",
+    "conditions": "Conditions de Location",
+    "cond1": "Permis de conduire valide requis",
+    "cond2": "CIN ou Passeport en cours de validité",
+    "cond3": "Dépôt de garantie requis",
+    "cond4": "Assurance tous risques incluse",
+    "cond5": "Kilométrage illimité"
+  },
+  "about": {
+    "title": "À Propos de Nous",
+    "subtitle": "L'excellence au service de votre mobilité",
+    "story": "Notre Histoire",
+    "storyText": "LocationAuto Maroc est née de la passion pour l'automobile et d'une vision claire : offrir aux Marocains et aux visiteurs du Royaume une expérience de location de voiture à la hauteur des standards internationaux. Depuis notre création, nous avons bâti une réputation d'excellence fondée sur la confiance, la transparence et le service client irréprochable.",
+    "mission": "Notre Mission",
+    "missionText": "Rendre la mobilité accessible à tous avec des véhicules fiables, des prix honnêtes et un service chaleureux. Nous croyons que chaque client mérite le meilleur, que ce soit pour un déplacement professionnel ou un voyage touristique.",
+    "values": "Nos Valeurs",
+    "v1": "Excellence",
+    "v2": "Transparence",
+    "v3": "Fiabilité",
+    "v4": "Innovation"
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Notre équipe est à votre disposition",
+    "name": "Nom complet",
+    "email": "Adresse email",
+    "phone": "Téléphone",
+    "message": "Votre message",
+    "send": "Envoyer le message",
+    "address": "Adresse",
+    "addressValue": "123 Boulevard Mohammed V, Casablanca, Maroc",
+    "phoneValue": "+212 6 00 00 00 00",
+    "emailValue": "contact@locationauto.ma",
+    "hours": "Horaires",
+    "hoursValue": "Lun–Sam: 8h00 – 20h00",
+    "hoursWeekend": "Dimanche: 9h00 – 18h00",
+    "whatsapp": "WhatsApp",
+    "success": "Message envoyé avec succès !",
+    "mapTitle": "Trouvez-Nous"
+  },
+  "footer": {
+    "desc": "Votre partenaire de confiance pour la location de voitures au Maroc. Flotte premium, service 5 étoiles.",
+    "links": "Liens Rapides",
+    "legal": "Mentions Légales",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions Générales",
+    "social": "Réseaux Sociaux",
+    "rights": "Tous droits réservés.",
+    "madeIn": "Fait avec ❤️ au Maroc"
+  },
+  "notFound": {
+    "title": "Page Introuvable",
+    "subtitle": "La page que vous cherchez n'existe pas.",
+    "back": "Retour à l'accueil"
+  }
+}
